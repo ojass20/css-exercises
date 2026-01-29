@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.ele-1 {
+    color: white;
+    background-color: black;
+}
+
+.ele-2 {
+    background-color: yellow;
+}
+
+.ele-1,.ele-2{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+}
